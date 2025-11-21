@@ -1,57 +1,49 @@
-# BMW-Power-BI-Dashboard
-This dashboard provides a clear view of BMW’s global sales performance across regions, models, fuel types, and time. It highlights the company’s revenue trends, unit volumes, and market preferences using an interactive Power BI report.
+BMW Global Sales Dashboard – Power BI
+This project visualizes BMW’s global sales performance across regions, models, fuel types, and years using Power BI. The dashboard highlights key business metrics and reveals trends in revenue, model popularity, and market behavior.
 
 Dashboard Preview
 
-Key Insights
-1. Global Highlights
+Key Metrics
 
-Asia emerges as the first and strongest region by overall sales.
+Asia is the top region by overall sales
 
-EV share stands at 50.67%, reflecting a strong shift toward electric mobility.
+50.67% EV share, showing strong adoption of electric vehicles
 
-253M total units sold over the dataset period.
+253M total units sold
 
-3 Series is the top-selling model globally.
+3 Series is the top-selling model
 
-639M USD in total revenue.
+639M USD total revenue
 
-75.03K USD average price per model.
+75.03K USD average price per model
 
-2. Sales Trends
+What the Dashboard Shows
+1. Yearly Trends
 
-Yearly revenue remains consistently high from 2010 to 2024.
+Total Sales (USD) from 2010 to 2024
 
-Combined visualization of revenue and unit sales shows how demand aligns with pricing and market shifts.
+Total Units sold per year
 
-3. Regional Performance
+Combined line + bar chart for yearly comparison
 
-Balanced contribution from all regions: Asia, Europe, North America, Middle East, Africa, and South America.
+2. Regional Insights
 
-Each region displays a consistent spread across fuel types and transmission preferences.
+Sales share across Asia, Europe, North America, Middle East, Africa, and South America
 
-4. Model-Level Breakdown
+Region-wise breakdown by:
 
-The 7 Series, 3 Series, 5 Series, i8, X-series, and i3 dominate contributions.
+Fuel Type
 
-Treemaps provide a quick comparison of sales volume by model.
+Transmission Type
 
-5. Fuel-Type Distribution
+3. Model-Level Analysis
 
-Sales are almost evenly split among Hybrid, Petrol, Electric, and Diesel, each capturing around 25%.
+Treemaps showing sales by model
 
-This indicates strategic diversification across powertrain technologies.
+Identification of high-performing series like 7 Series, 3 Series, 5 Series, i8, i3, X-series, and more
 
-What This Dashboard Shows
+4. Fuel-Type Distribution
 
-Revenue and sales volume by year
+Nearly equal share among Hybrid, Petrol, Electric, and Diesel
 
-Sales distribution by region
-
-Performance of each BMW model
-
-Breakdown by fuel type and transmission
-
-EV adoption trends
-
-Region-wise model performance
+Donut chart highlights percentage contribution of each fuel type
