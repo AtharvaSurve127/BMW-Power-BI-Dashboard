@@ -1,4 +1,6 @@
 BMW Global Sales Dashboard – Power BI
+![Uploading Screenshot 2025-11-21 211425.png…]()
+
 This project visualizes BMW’s global sales performance across regions, models, fuel types, and years using Power BI. The dashboard highlights key business metrics and reveals trends in revenue, model popularity, and market behavior.
 
 Dashboard Preview
